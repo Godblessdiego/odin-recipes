@@ -7,4 +7,5 @@ This is the first lesson that will be included to our trajectory as full stack d
 This will help me:
 
 - Remember easy things that are useful while writing code in React
-`
+
+All the recipes are from: ([Allrecipes](https://www.allrecipes.com/))
